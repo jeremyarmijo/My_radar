@@ -2,13 +2,12 @@
 
 ## Introduction
 
-`my_radar` is a personal project that simulates air traffic control using a 2D visualization panel. This project, part of my Epitech curriculum, helps enhance my understanding of graphical programming, simulation systems, and C programming.
+`my_radar` is a Epitech project that simulates air traffic control using a 2D visualization panel. This project, part of my Epitech curriculum, helps enhance my understanding of graphical programming, simulation systems, and C programming.
 
 ## Features
 
 - Simulates aircrafts flying between points and control towers managing airspace.
 - Displays aircrafts and control towers on a 1920x1080 pixel window.
-- Handles aircraft collisions and control tower areas.
 - User interactions for toggling hitboxes and sprites visibility.
 
 ## Installation
